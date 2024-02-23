@@ -13,9 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["593968585383"], 
-["593968263524"], ["5492266613038"], ["5217821153974"], ["5217294888993"]]
+["573009026787", '𝙊𝙬𝙣𝙚𝙧 ', true], //MiloBot-CO 
+["573223408682"], 
 
 global.mods = []
 global.prems = []
@@ -33,7 +32,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "" //example: "+573009026787"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -112,11 +111,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5217294888993", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Soporte', 1]]
+["573223408682", 'Milo Dios 💻', 1], 
+["573223408682", 'Soporte', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -124,8 +120,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = "MiloBot"
+global.author = "Milo 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -133,7 +129,7 @@ global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "MiloBot-CO"
 
 global.yt = "https://youtube.com/@gatadios"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
@@ -144,9 +140,9 @@ global.tk = "https://www.tiktok.com/@gata_bot"
 global.ths = "https://www.threads.net/@gata_dios"
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
-global.bot = 'wa.me/5214431086138\n* wa.me/17866739002' //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 💖🐈
+global.bot = 'wa.me/573009026787\n* wa.me/3009026787' //MiloBot-CO
 
-global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
+global.nna = 'https://www.atom.bio/MiloBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
 global.nna2 = 'https://chat.whatsapp.com/KaTeeaexrGSHBzPm4s945b' // Help
 global.nn = 'https://chat.whatsapp.com/HBIIrHorHbW2LIxlS9MjRI' // Grupo 1
@@ -187,8 +183,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.wm = "Milo𝘽𝙤𝙩-𝙈𝘿 : Milo 𝘿𝙞𝙤𝙨"
+global.igfg = "Milo𝘽𝙤𝙩-𝙈𝘿"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
